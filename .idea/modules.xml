@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Test-static/Test-static.iml" filepath="$PROJECT_DIR$/Test-static/Test-static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestProject/TestProject.iml" filepath="$PROJECT_DIR$/TestProject/TestProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classTest/classTest.iml" filepath="$PROJECT_DIR$/classTest/classTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sAbstractClass/sAbstractClass.iml" filepath="$PROJECT_DIR$/sAbstractClass/sAbstractClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sArihmetic/sArihmetic.iml" filepath="$PROJECT_DIR$/sArihmetic/sArihmetic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sArray/sArray.iml" filepath="$PROJECT_DIR$/sArray/sArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sArrayList/sArrayList.iml" filepath="$PROJECT_DIR$/sArrayList/sArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sInherit/sInherit.iml" filepath="$PROJECT_DIR$/sInherit/sInherit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sInterface/sInterface.iml" filepath="$PROJECT_DIR$/sInterface/sInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sLoop/sLoop.iml" filepath="$PROJECT_DIR$/sLoop/sLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sMethod/sMethod.iml" filepath="$PROJECT_DIR$/sMethod/sMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sOoop/sOoop.iml" filepath="$PROJECT_DIR$/sOoop/sOoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sPoject/sPoject.iml" filepath="$PROJECT_DIR$/sPoject/sPoject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sString/sString.iml" filepath="$PROJECT_DIR$/sString/sString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sStringBuider/sStringBuider.iml" filepath="$PROJECT_DIR$/sStringBuider/sStringBuider.iml" />
+    </modules>
+  </component>
+</project>
